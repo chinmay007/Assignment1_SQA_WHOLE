@@ -34,17 +34,36 @@ namespace Assignment1_SQA
                             Console.WriteLine("Length:" +" "+ r1.GetLength());
                             break;
                         case 2:
+                            entlen:
                             Console.WriteLine("Enter the Length of Rectangle");
                             l = Int32.Parse(Console.ReadLine());
-                            Console.WriteLine("New Length:"+" "+ r1.SetLength(l));
+                            if (l > 0)
+                            {
+                                Console.WriteLine("New Length:" + " " + r1.SetLength(l));
+                            }
+                            else
+                            {
+                                Console.WriteLine("Length Should not be less than zero");
+                                goto entlen;
+                            }
                             break;
                         case 3:
                             Console.WriteLine("Width:"+" "+ r1.GetWidth());
                             break;
                         case 4:
+                            entwid:
                             Console.WriteLine("Enter the Width of Rectangle");
                             w = Int32.Parse(Console.ReadLine());
-                            Console.WriteLine("New Width:"+" "+ r1.SetWidth(w));
+                            if (l > 0)
+                            {
+                                Console.WriteLine("New Width:" + " " + r1.SetWidth(w));
+                            }
+                            else
+                            {
+                                Console.WriteLine("Width Should not be less than zero");
+                                goto entwid;
+                            }
+                            
                             break;
                         case 5:
                             Console.WriteLine("Rectangle Perimiter:"+" "+ r1.GetPerimiter());
