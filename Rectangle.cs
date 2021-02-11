@@ -7,12 +7,12 @@ namespace Assignment1_SQA
     public class Rectangle
     {
         private int width, length;
-        Rectangle()
+        public Rectangle()
         {
             this.width = 1;
             this.length = 1;
         }
-        Rectangle(int w,int h)
+        public Rectangle(int w,int h)
         {
             this.width = w;
             this.length = h;
