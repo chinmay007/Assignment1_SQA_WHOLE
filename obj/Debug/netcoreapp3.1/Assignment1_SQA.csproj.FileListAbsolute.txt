@@ -1,0 +1,13 @@
+C:\Users\chinn\source\repos\Assignment1_SQA\bin\Debug\netcoreapp3.1\Assignment1_SQA.exe
+C:\Users\chinn\source\repos\Assignment1_SQA\bin\Debug\netcoreapp3.1\Assignment1_SQA.deps.json
+C:\Users\chinn\source\repos\Assignment1_SQA\bin\Debug\netcoreapp3.1\Assignment1_SQA.runtimeconfig.json
+C:\Users\chinn\source\repos\Assignment1_SQA\bin\Debug\netcoreapp3.1\Assignment1_SQA.runtimeconfig.dev.json
+C:\Users\chinn\source\repos\Assignment1_SQA\bin\Debug\netcoreapp3.1\Assignment1_SQA.dll
+C:\Users\chinn\source\repos\Assignment1_SQA\bin\Debug\netcoreapp3.1\Assignment1_SQA.pdb
+C:\Users\chinn\source\repos\Assignment1_SQA\obj\Debug\netcoreapp3.1\Assignment1_SQA.csprojAssemblyReference.cache
+C:\Users\chinn\source\repos\Assignment1_SQA\obj\Debug\netcoreapp3.1\Assignment1_SQA.AssemblyInfoInputs.cache
+C:\Users\chinn\source\repos\Assignment1_SQA\obj\Debug\netcoreapp3.1\Assignment1_SQA.AssemblyInfo.cs
+C:\Users\chinn\source\repos\Assignment1_SQA\obj\Debug\netcoreapp3.1\Assignment1_SQA.csproj.CoreCompileInputs.cache
+C:\Users\chinn\source\repos\Assignment1_SQA\obj\Debug\netcoreapp3.1\Assignment1_SQA.dll
+C:\Users\chinn\source\repos\Assignment1_SQA\obj\Debug\netcoreapp3.1\Assignment1_SQA.pdb
+C:\Users\chinn\source\repos\Assignment1_SQA\obj\Debug\netcoreapp3.1\Assignment1_SQA.genruntimeconfig.cache
